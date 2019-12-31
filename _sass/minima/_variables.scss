@@ -1,0 +1,23 @@
+$base-font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       $nord4 !default;
+$background-color: $nord0 !default;
+$brand-color:      $nord8 !default;
+
+$grey-color:       $nord2 !default;
+$grey-color-light: $nord1 !default;
+$grey-color-dark:  $nord3 !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;

@@ -10,3 +10,10 @@
 body {
   background-color: $nord0;
 }
+
+a {
+ &:focus,
+ &:hover {
+    color: $nord7
+  }
+}

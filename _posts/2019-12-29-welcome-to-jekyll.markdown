@@ -36,3 +36,21 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+```ruby
+class Test
+  CONSTANT = "hello #{1}"
+
+  def self.test
+    @test = :hello_word
+  end
+
+  def test
+    if @@test != 1000
+      return 20
+    else
+      return 40 - 3.0
+    end
+  end
+end
+```
