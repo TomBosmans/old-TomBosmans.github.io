@@ -8,12 +8,12 @@
 @import "milligram/milligram";
 
 body {
-  background-color: $nord0;
+  background-color: var(--background-color);
 }
 
 a {
  &:focus,
  &:hover {
-    color: $nord7
+    color: var(--primary-color-highlight);
   }
 }

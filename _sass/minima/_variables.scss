@@ -6,13 +6,13 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       $nord4 !default;
-$background-color: $nord0 !default;
-$brand-color:      $nord8 !default;
+$text-color:       var(--text-color) !default;
+$background-color: var(--background-color) !default;
+$brand-color:      var(--primary-color) !default;
 
-$grey-color:       $nord2 !default;
-$grey-color-light: $nord3 !default;
-$grey-color-dark:  $nord1 !default;
+$grey-color:       var(--background-lighter) !default;
+$grey-color-light: var(--background-lightest) !default;
+$grey-color-dark:  var(--background-light) !default;
 
 $table-text-align: left !default;
 
