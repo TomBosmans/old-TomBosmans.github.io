@@ -15,13 +15,13 @@
 </header>
 
 <script>
- let sessionStorage = window.sessionStorage;
+ let storage = window.localStorage;
  let root = document.documentElement;
  let values = getComputedStyle(root);
  let toggle = document.getElementById('toggle');
 
  window.onload = function() {
-   if (sessionStorage.getItem('theme') === 'dark') { toggle.click(); }
+   if (storage.getItem('theme') === 'dark') { toggle.click(); }
  }
  
  toggle.onclick = function() {
@@ -41,6 +41,6 @@
      toggle.classList.remove('active')
    }
 
-   sessionStorage.setItem('theme', this.checked ? 'dark' : 'light');
+   storage.setItem('theme', this.checked ? 'dark' : 'light');
  }
 </script>
