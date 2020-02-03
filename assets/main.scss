@@ -6,6 +6,7 @@
 @import "minima/minima";
 @import "code_highlight";
 @import "milligram/milligram";
+@import 'switch';
 
 body {
   background-color: var(--background-color);
@@ -16,4 +17,8 @@ a {
  &:hover {
     color: var(--primary-color-highlight);
   }
+}
+
+.switch {
+  margin: 8px;
 }
