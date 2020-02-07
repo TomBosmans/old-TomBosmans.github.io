@@ -2,10 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import "normalize";
+@import "fonts";
 @import "variables";
 @import "minima/minima";
-@import "code_highlight";
 @import "milligram/milligram";
+@import "code_highlight";
 @import 'switch';
 
 body {
@@ -22,4 +24,8 @@ a {
 .switch {
   margin: 8px;
   scale: 70%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $sans-serif-font;
 }

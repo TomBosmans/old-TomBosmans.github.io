@@ -1,4 +1,9 @@
 @import 'nord';
+@import 'fonts';
+
+$mono-font: 'Roboto Mono', monospace;
+$serif-font: 'Merriweather', serif;
+$sans-serif-font: 'Montserrat', sans-serif;
 
 :root {
   --dark-background-color: #{$nord0};
