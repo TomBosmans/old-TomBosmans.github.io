@@ -22,13 +22,8 @@ the presequel one playthrough solo and one in coop.
 
 ## February
 
-| Cover                              | Name              | Status   | Description                                                                                                                                                              | Rating |
-| --                                 | --                | :--:     | -------                                                                                                                                                                  | :--:   |
-| ![](/assets/images/games/ryse.jpg) | Ryse: Son of Rome | finished | Decent story, amazing graphics but repetitive gameplay. The game seems to be aware of its flaw and tries to limit the damage it does, resulting in a pretty decent game. | 7      |
-
-
-
-
-
-
-
+| Cover                                    | Name                                            | Status   | Description                                                                                                                                                              | Rating |
+| --                                       | --                                              | :--:     | -------                                                                                                                                                                  | :--:   |
+| ![](/assets/images/games/ryse.jpg)       | Ryse: Son of Rome                               | finished | Decent story, amazing graphics but repetitive gameplay. The game seems to be aware of its flaw and tries to limit the damage it does, resulting in a pretty decent game. | 7      |
+| ![](/assets/images/games/claptastic.jpg) | Borderlands: The Pre-Sequel - Claptastic Voyage | finished | More Pre-Sequel can't be bad can it? Worth while dlc.                                                                                                                    | 8      |
+| ![](/assets/images/games/gta5.jpg)       | Grand Theft Auto V                              | Playing  |                                                                                                                                                                          |        |

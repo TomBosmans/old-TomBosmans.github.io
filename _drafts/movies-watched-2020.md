@@ -15,14 +15,7 @@ title: Movies watched 2020
 
 ## February
 
-| Cover                                 | Name                                                   | Opinion                                                                                                            | Rating |
-| --                                    | --                                                     | -------                                                                                                            | :--:   |
-| ![](/assets/images/movies/casino.jpg) | [Casino (1995)](https://www.imdb.com/title/tt0112641/) | Guy makes money in not so legal way, gets the girl, girl becomes problem, business becomes problem and people die. | 8      |
-
-
-
-
-
-
-
-
+| Cover                                   | Name                                                        | Opinion                                                                                                            | Rating |
+| --                                      | --                                                          | -------                                                                                                            | :--:   |
+| ![](/assets/images/movies/casino.jpg)   | [Casino (1995)](https://www.imdb.com/title/tt0112641/)      | Guy makes money in not so legal way, gets the girl, girl becomes problem, business becomes problem and people die. | 8      |
+| ![](/assets/images/movies/irishman.jpg) | [The Irishman (2019)](https://www.imdb.com/title/tt1302006) |                                                                                                                    |        |
