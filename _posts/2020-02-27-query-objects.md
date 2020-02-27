@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Query Objects
+date: 2020-02-27 17:25 +0100
 ---
-
 ## Use Case
 Let's say we have an endpoint `/books` that can include many query params like `?name_matches=lord` that should return us all
 the books matching the name `lord`.
@@ -59,12 +59,14 @@ class Book::CollectionQuery < ApplicationQuery
     relation.where(table[:name].matches("%#{name_matches}%"))
   end
 
-  def published_at_clause
-    start_date = params[:published_at_from]
-    end_date = params[:published_at_until]
-    return relation unless start_date || end_date 
+  def published_at_clause(relation)
+    start_date = params[:published_at_from]&.to_time
+    end_date = params[:published_at_until]&.to_time
 
-    # query
+    published_at = table[:published_at] 
+    relation = relation.where(published_at.gteq(start_date) if start_date
+    relation = relation.where(published_at.lteq(end_date) if end_date
+    relation
   end
 
   def table
@@ -76,7 +78,7 @@ end
 So now when we are in our `BooksController#index` we can do:
 ```ruby
 def index
-  books = Book::CollectionQuery.execute(Book.all, params[:filter])
+  books = Book::CollectionQuery.execute(Book.all, params)
   render json: books, status: :ok
 end
 ```
@@ -84,7 +86,7 @@ while in our `Author::BooksController#index` we can do:
 ```ruby
 def index
   author = Author.find(params[:author_id])
-  books = Book::CollectionQuery.execute(author.books, params[:filter])
+  books = Book::CollectionQuery.execute(author.books, params)
   render json: books, status: :ok
 end
 ```
@@ -104,17 +106,16 @@ relation
 ```
 
 ## Final note
-The reason I like this pattern is because it is easy to read and extend upon. Usually code that does similar
-logic end up being very confusing to read.
-
 Some guidelines:
-- Nest under the model you return and always return a collection!
+- Nest under the model you return (`Book::` when you return books)
+- Always return a collection so you don't break future queries. (Use [.none](https://api.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-none))
 - Do not add extra public methods besides `execute`.
 - No your query is not special, you really do not need extra public methods 😜.
 
 Mistakes I've made in the past:
 - Adding pagination/sorting inside a CollectionQuery, this made it imposible to know how big the unpaginated collection was.
-You could add extra public methods, but just extracting it will end up being cleaner fix.
+You could add extra public methods, but just extracting it will end up being cleaner more reusable fix.
+
 ## Sources
 - Mainly [this](https://thoughtbot.com/blog/using-yieldself-for-composable-activerecord-relations) article from Thoughtbot.
 - Working with a confusing mess of a filter(s) in the past + using this pattern in production with lovely results.
