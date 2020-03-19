@@ -17,5 +17,6 @@ title: Live Shows 2020
 
 ## March
 
-| Poster                                  | Name                                                                    | Rating |
-| ![](/assets/images/shows/avril2020.jpg) | Avril Lavigne: Head Above Water World Tour - Brussels - Forest National |        |
+| Poster                                  | Name                                                                    | Rating                      |
+| ![](/assets/images/shows/avril2020.jpg) | Avril Lavigne: Head Above Water World Tour - Brussels - Forest National | postponed because of corona |
+

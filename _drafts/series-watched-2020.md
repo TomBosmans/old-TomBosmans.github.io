@@ -11,8 +11,8 @@ title: Series watched 2020
 
 ## February
 
-| Cover                                   | Name                                                                       | Status   | Opinion                                                                                | Rating |
-| --                                      | --                                                                         | :--:     | -------                                                                                | :--:   |
-| ![](/assets/images/series/the-boys.jpg) | [The Boys S01](https://www.imdb.com/title/tt1190634/)                      | finished | Great fun how they play with the super hero concept!                                   | 8      |
-| ![](/assets/images/series/sabrina3.jpg) | [Chilling Adventures of Sabrina S03](https://www.imdb.com/title/tt7569592) | finished | Ending makes big sin against story telling, draggin the entire season down big time... | 6      |
-
+| Cover                                         | Name                                                                       | Status   | Opinion                                                                                | Rating |
+| --                                            | --                                                                         | :--:     | -------                                                                                | :--:   |
+| ![](/assets/images/series/the-boys.jpg)       | [The Boys S01](https://www.imdb.com/title/tt1190634/)                      | finished | Great fun how they play with the super hero concept!                                   | 8      |
+| ![](/assets/images/series/sabrina3.jpg)       | [Chilling Adventures of Sabrina S03](https://www.imdb.com/title/tt7569592) | finished | Ending makes big sin against story telling, draggin the entire season down big time... | 6      |
+| ![](/assets/images/series/silicon-valley.jpg) | [Silicon Valley S01+02](https://www.imdb.com/title/tt2575988)              | finished | Fun                                                                                    | 
