@@ -32,11 +32,26 @@ the presequel one playthrough solo and one in coop.
 ## March
 
 | Cover                                       | Name                        | Status                      | Description                                                                                                                                     | Rating |
-| --                                          | --                          | :--:                        | -------                                                                                                                                         | :--:   |
-| ![](/assets/images/games/uncharted2.jpg)    | Uncharted 2: Among Thieves  | finished                    | Improves on the first one and did I mention the characters are great?                                                                         | 9      |
-| ![](/assets/images/games/halo-ce.jpg)       | Halo: Combat Evolved        | finished: Legendary co-op   | Plays surprising smooth for such an old game. Enhanced graphics have issues sadly, but are still nice way to play.                              | 8.5    |
-| ![](/assets/images/games/broken-lines.jpg)  | Broken Lines                | finished                    | Fun way to do "turn" based strategy.                                                                                                            | 8      |
-| ![](/assets/images/games/mark-of-chaos.jpg) | Warhammer: Mark of Chaos    | Playing: 2nd campaign chaos | Loved this game as a kid, still fun and really captures the warhammer feeling.                                                                  | 7.5    |
-| ![](/assets/images/games/gta-vice-city.jpg) | Grand Theft Auto: Vice City | Playing                     | Controls in vehicles is pretty decent, but in combat is a pain. 8 hours long game extended by you needing to buy assets to progress the story.. | 7      |
-| ![](/assets/images/games/helldivers.jpg)    | Helldivers                  | "endless" Co-op             | Starshiptroopers meets Warhammer 40k. Fun game to play co-op, but it is very repetitive                                                         | 8      |
+| --                                          | --                          | :--:                        | -------                                                                                                                                         |   :--: |
+| ![](/assets/images/games/uncharted2.jpg)    | Uncharted 2: Among Thieves  | finished                    | Improves on the first one and did I mention the characters are great?                                                                           |      9 |
+| ![](/assets/images/games/halo-ce.jpg)       | Halo: Combat Evolved        | finished: Legendary co-op   | Plays surprising smooth for such an old game. Enhanced graphics have issues sadly, but are still nice way to play.                              |    8.5 |
+| ![](/assets/images/games/broken-lines.jpg)  | Broken Lines                | finished                    | Fun way to do "turn" based strategy.                                                                                                            |      8 |
+| ![](/assets/images/games/mark-of-chaos.jpg) | Warhammer: Mark of Chaos    | finished                    | Loved this game as a kid, still fun and really captures the warhammer feeling.                                                                  |    7.5 |
+| ![](/assets/images/games/gta-vice-city.jpg) | Grand Theft Auto: Vice City | finished                    | Controls in vehicles is pretty decent, but in combat is a pain. 8 hours long game extended by you needing to buy assets to progress the story.. |      7 |
+| ![](/assets/images/games/helldivers.jpg)    | Helldivers                  | "endless" Co-op             | Starshiptroopers meets Warhammer 40k. Fun game to play co-op, but it is very repetitive                                                         |      8 |
+| ![](/assets/images/games/anno1404.jpg)      | Anno 1404                   | got convinced to get 1800   | Fun game that still looks great!                                                                                                                |      8 |
 
+## April
+
+| Cover                                   | Name                                    | Status            | Description                       | Rating |
+| --                                      | --                                      | :--:              | -------                           | :--:   |
+| ![](/assets/images/games/anno1800.jpg   | Anno 1800                               | finished campaign | If 1404 is great this is amazing! | 9.5    |
+| ![](/assets/images/games/warhammer2.jpg | Total War: Warhammer 2 - Malus campaign | finished          |                                   | -      |
+
+## May
+
+| Cover | Name                | Status   | Description | Rating |
+| --    | --                  | :--:     | -------     |   :--: |
+|       | XCOM: Chimera Squad | finished |             |    7.5 |
+|       | Inquisitor Martyr   | playing  |             |      8 |
+|       | Hollow Knight       | playing  |             |      - |

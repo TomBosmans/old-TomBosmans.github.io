@@ -1,0 +1,134 @@
+* 2020
+** January
+*** Movies
+    | Name                                     | Rating | Opinion                                                                                   |
+    | --                                       |   :--: | -------                                                                                   |
+    | [[https://www.imdb.com/title/tt4633694][Spider-Man: Into the Spider-Verse (2018)]] |      7 | Fun spider-man movie but story goes a little bit over the top even for a superhero movie. |
+    | [[https://www.imdb.com/title/tt5742374][You Were Never Really Here (2017)]]        |    7.5 | Brutal, weird and sweet.                                                                  |
+    | [[https://www.imdb.com/title/tt6320628][Spider-Man: Far from home (2019)]]         |      8 | Just everything you wanted from another spider man movie. Nothing more, nothing less      |
+    | [[https://www.imdb.com/title/tt0829150][Dracula Untold (2014)]]                    |      8 | Fun take on the Dracula story and would watch a sequel.                                   |
+    | [[https://www.imdb.com/title/tt2975590][Batman V Superman (2016)]]                 |      6 | So many unneeded scenes drag this movie out, disrespecting the viewers time. Boring!      |
+*** Series
+    | Cover                                      | Name                                                | Status                | Opinion                                                                                                                                                 | Rating |
+    | --                                         | --                                                  | :--:                  | -------                                                                                                                                                 | :--:   |
+    | ![](/assets/images/series/the-witcher.jpg) | [The Witcher](https://www.imdb.com/title/tt5180504) | stopped half way s1e6 | Great performance from Henry Cavill, but too many unneeded changes from the original content that make it B quality tv show while it could be top tier. | 5.5    |
+
+*** Games
+    | Name                                                   | Status   | Rating | Description                                                                                                                    |
+    | --                                                     | :--:     |   :--: | -------                                                                                                                        |
+    | Borderlands                                            | finished |      7 | The game still looks good and gunplay feels great, but suffers from too much backtracking and uninteresting story.             |
+    | Shadow Tactics: Blades of the Shogun                   | finished |    7.8 | Well crafted and clever game with lovable characters. The story was predictable but in the end did its job.                    |
+    | Borderlands 2                                          | finished |      8 | Less backtracking, something that can be considered a story and more fun gunplay makes this a great successor to the original. |
+    | Assassin's Creed: Odyssey - Legacy of the First Blade  | finished |      7 | I understand what story it wants to tell, but the execution of it is rather poor. More Odyssey is never bad though!            |
+    | Borderlands 2: Tiny Tina's Assault on Dragon Keep      | finished |      8 | D&D inspired borderlands campaign is something that I would never have thought about, yet it works perfectly!                  |
+    | Borderlands 2: Mr. Torgue's Campaign of Carnage        | finished |      7 | Dissapointing Vault/ending with just more borderlands content. Ok but nothing special.                                         |
+    | Borderlands 2: Captain Scarlett and Her Pirate's Booty | finished |      7 | Few fun moments, more borderlands nothing special.                                                                             |
+    | Borderlands 2: Creature Slaughterdome                  | finished |    7.5 | Fun and short. Biggest troll side quest(s) with the granny though...                                                           |
+    | Borderlands 2: Borderlands: The Pre-Sequel             | finished |    8.5 | Similar to the second one yet different enough. Really enjoyed this one!                                                       |
+
+*** Live Concerts
+    | Name                                                                                                                                                   | Rating                  |
+    | --                                                                                                                                                     | -------                 |
+    | Slipknot: We Are Not Your Kind - Amsterdam - Ziggo Dome     | missed because sick 😞 |
+
+** February
+*** Movies
+    | Name                                                                       | Rating | Opinion                                                                                                            |
+    | --                                                                         |   :--: | -------                                                                                                            |
+    | [[https://www.imdb.com/title/tt0112641][Casino (1995)]]                                                              |      8 | Guy makes money in not so legal way, gets the girl, girl becomes problem, business becomes problem and people die. |
+    | [[https://www.imdb.com/title/tt1302006][The Irishman (2019)]]                                                        |      8 | Similar in style as Casino, good but 3 hours is an hour too long for the story.                                    |
+    | [[https://www.imdb.com/title/tt7713068][Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)]] |      8 | This movie gives you everything you could ask for, more Harley and more fun :ok_hand:                                    |
+
+*** Series
+    | Cover                                         | Name                                                                       | Status   | Opinion                                                                                | Rating |
+    | --                                            | --                                                                         | :--:     | -------                                                                                |   :--: |
+    | ![](/assets/images/series/the-boys.jpg)       | [The Boys S01](https://www.imdb.com/title/tt1190634/)                      | finished | Great fun how they play with the super hero concept!                                   |      8 |
+    | ![](/assets/images/series/sabrina3.jpg)       | [Chilling Adventures of Sabrina S03](https://www.imdb.com/title/tt7569592) | finished | Ending makes big sin against story telling, draggin the entire season down big time... |      6 |
+    | ![](/assets/images/series/silicon-valley.jpg) | [Silicon Valley S01+02](https://www.imdb.com/title/tt2575988)              | finished | Fun                                                                                    |        |
+
+*** Games
+    | Name                                            | Status   | Rating | Description                                                                                                                                                               |
+    | --                                              | :--:     |   :--: | -------                                                                                                                                                                   |
+    | Ryse: Son of Rome                               | finished |      7 | Decent story, amazing graphics but repetitive gameplay. The game seems to be aware of its flaw and tries to limit the damage it does, resulting in a pretty decent game.  |
+    | Borderlands: The Pre-Sequel - Claptastic Voyage | finished |      8 | More Pre-Sequel can't be bad can it? Worth while dlc.                                                                                                                     |
+    | Grand Theft Auto V                              | finished |      8 | The game is best when it is linear, the open world is pretty bland when there are no quests left.  Also who thought it would be fun to stack containers or mop a floor... |
+    | Uncharted: Drake's Fortune                      | finished |      9 | Amazing flow, great characters = really fun game.                                                                                                                         |
+
+*** Live Concerts
+    | Name                                                          | Rating          |
+    | The HU + Fire From the Gods: The Gereg Tour - Antwerp - Zappa | 8               |
+    | [Baby Metal + Skynd]: Metal Galaxy World Tour - Brussels - AB | 9 - unexpected! |
+
+** March
+*** Movies
+    | Name                                                 | Rating | Opinion                                                                                                                                                                                                 |
+    | --                                                   |   :--: | -------                                                                                                                                                                                                 |
+    | [[https://www.imdb.com/title/tt1386697][Suicide Squad (2016)]]                                 |    7.5 | Fun even when rewatching. Story is very typical superhero, but I just enjoy the cast.                                                                                                                   |
+    | [[https://www.imdb.com/title/tt0112442][Bad Boys (1995)]]                                      |      7 | Entertaining, but not much more.                                                                                                                                                                        |
+    | [[https://www.imdb.com/title/tt0172156][Bad Boys II (2003)]]                                   |    7.5 | Bigger, better and more over the top.                                                                                                                                                                   |
+    | [[https://www.imdb.com/title/tt1560220][Zombieland: Double Tap (2019)]]                        |    7.5 | More zombieland is good :ok_hand:                                                                                                                                                                              |
+    | [[https://www.imdb.com/title/tt7975244][Jumanji: The Next Level (2019)]]                       |      7 | More of the same as the first one, but not really better. Still fun.                                                                                                                                    |
+    | [[https://www.imdb.com/title/tt2527338][Star Wars: Episode IX - The Rise of Skywalker (2019)]] |      6 | Tries really hard to "fix" the mess from the previous 2 movies, but still manages to be cringy at moments. It was the "Final order", but also I hope the "Final episode" unless they get George back... |
+    | [[https://www.imdb.com/title/tt3385516][X-Men: Apocalypse (2016)]]                             |      7 | Good if the ending wasn't so weak.                                                                                                                                                                      |
+    | [[https://www.imdb.com/title/tt3385516][X-Men: Dark Phoenix (2019)]]                           |      6 | The ending of the previous movie makes no sense with the start of this one. On its own decent but creates plotholes way to big to forgive.                                                              |
+    | [[https://www.imdb.com/title/tt1950186][Ford v Ferrari (2019)]]                                |    8.5 | If you can make me really like a movie about cars, you did a great job.                                                                                                                                 |
+    |                                                      |        |                                                                                                                                                                                                         |
+
+*** Series
+    | Cover | Name | Status | Opinion | Rating |
+    | --    | --   | :--:   | ------- | :--:   |
+
+*** Games
+    | Name                        | Status                    | Rating | Description                                                                                                                                     |
+    | --                          | :--:                      |   :--: | -------                                                                                                                                         |
+    | Uncharted 2: Among Thieves  | finished                  |      9 | Improves on the first one and did I mention the characters are great?                                                                           |
+    | Halo: Combat Evolved        | finished: Legendary co-op |    8.5 | Plays surprising smooth for such an old game. Enhanced graphics have issues sadly, but are still nice way to play.                              |
+    | Broken Lines                | finished                  |      8 | Fun way to do "turn" based strategy.                                                                                                            |
+    | Warhammer: Mark of Chaos    | finished                  |    7.5 | Loved this game as a kid, still fun and really captures the warhammer feeling.                                                                  |
+    | Grand Theft Auto: Vice City | finished                  |      7 | Controls in vehicles is pretty decent, but in combat is a pain. 8 hours long game extended by you needing to buy assets to progress the story.. |
+    | Helldivers                  | "endless" Co-op           |      8 | Starshiptroopers meets Warhammer 40k. Fun game to play co-op, but it is very repetitive                                                         |
+    | Anno 1404                   | got convinced to get 1800 |      8 | Fun game that still looks great!                                                                                                                |
+
+*** Live Concerts
+    | Name                                                                    | Rating                      |
+    | Avril Lavigne: Head Above Water World Tour - Brussels - Forest National | postponed because of corona |
+
+** April
+*** Movies
+    | Name | Rating | Opinion |
+    | --   | :--:   | ------- |
+
+*** Series
+    | Cover                                            | Name                                                                              | Status      | Opinion                                                                          | Rating |
+    | --                                               | --                                                                                | :--:        | -------                                                                          | :--:   |
+    | ![](/assets/images/series/mandalorian.jpg)       | [The Mandalorian S01e1-s01e2](https://www.imdb.com/title/tt8111088/)              | s01e1-s01e2 | Not much story so far, hard to like a character whose face you never get to see. | -      |
+    | ![](/assets/images/series/his-dark-materials.jpg | [His Dark Materials s01](https://www.imdb.com/title/tt5607976/?ref_=nv_sr_srsg_0) | s01         | Amazing!                                                                         | 9      |
+
+*** Games
+    | Name                                    | Status            | Rating | Description                       |
+    | --                                      | :--:              | :--:   | -------                           |
+    | Anno 1800                               | finished campaign | 9.5    | If 1404 is great this is amazing! |
+    | Total War: Warhammer 2 - Malus campaign | finished          | -      |                                   |
+
+** May
+*** Movies
+    | Name                 | Rating | Opinion |
+    | --                   |   :--: | ------- |
+    | [[https://www.imdb.com/title/tt2584384/?][Jojo Rabbit (2019)]]   |    8.5 |         |
+    | [[https://www.imdb.com/title/tt3315342][Logan (2017)]]         |      8 |         |
+    | [[https://www.imdb.com/title/tt8367814][The Gentlemen (2019)]] |      8 |         |
+    | [[https://www.imdb.com/title/tt7456310][Anna (2019)]]          |      7 |         |
+
+*** Series
+    | Cover | Name         | Status      | Opinion | Rating |
+    | --    | --           | :--:        | ------- | :--:   |
+    |       | Black Mirror | s01e1-s01e2 |         | 8      |
+
+*** Games
+    | Name                | Status   | Rating | Description |
+    | --                  | :--:     | :--:   | -------     |
+    | XCOM: Chimera Squad | finished | 7.5    |             |
+    | Inquisitor Martyr   | playing  | 8      |             |
+    | Hollow Knight       | playing  | -      |             |
+
+
