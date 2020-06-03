@@ -7,7 +7,9 @@
     | [[https://www.imdb.com/title/tt5742374][You Were Never Really Here (2017)]]        |    7.5 | Brutal, weird and sweet.                                                                  |
     | [[https://www.imdb.com/title/tt6320628][Spider-Man: Far from home (2019)]]         |      8 | Just everything you wanted from another spider man movie. Nothing more, nothing less      |
     | [[https://www.imdb.com/title/tt0829150][Dracula Untold (2014)]]                    |      8 | Fun take on the Dracula story and would watch a sequel.                                   |
+    | [[https://www.imdb.com/title/tt0169547/?ref_=nv_sr_srsg_0][American Beauty (1999)]]                   |    7.5 |                                                                                           |
     | [[https://www.imdb.com/title/tt2975590][Batman V Superman (2016)]]                 |      6 | So many unneeded scenes drag this movie out, disrespecting the viewers time. Boring!      |
+
 *** Series
     | Cover                                      | Name                                                | Status                | Opinion                                                                                                                                                 | Rating |
     | --                                         | --                                                  | :--:                  | -------                                                                                                                                                 | :--:   |
@@ -66,13 +68,12 @@
     | [[https://www.imdb.com/title/tt1386697][Suicide Squad (2016)]]                                 |    7.5 | Fun even when rewatching. Story is very typical superhero, but I just enjoy the cast.                                                                                                                   |
     | [[https://www.imdb.com/title/tt0112442][Bad Boys (1995)]]                                      |      7 | Entertaining, but not much more.                                                                                                                                                                        |
     | [[https://www.imdb.com/title/tt0172156][Bad Boys II (2003)]]                                   |    7.5 | Bigger, better and more over the top.                                                                                                                                                                   |
-    | [[https://www.imdb.com/title/tt1560220][Zombieland: Double Tap (2019)]]                        |    7.5 | More zombieland is good :ok_hand:                                                                                                                                                                              |
+    | [[https://www.imdb.com/title/tt1560220][Zombieland: Double Tap (2019)]]                        |    7.5 | More zombieland is good :ok_hand:                                                                                                                                                                             |
     | [[https://www.imdb.com/title/tt7975244][Jumanji: The Next Level (2019)]]                       |      7 | More of the same as the first one, but not really better. Still fun.                                                                                                                                    |
     | [[https://www.imdb.com/title/tt2527338][Star Wars: Episode IX - The Rise of Skywalker (2019)]] |      6 | Tries really hard to "fix" the mess from the previous 2 movies, but still manages to be cringy at moments. It was the "Final order", but also I hope the "Final episode" unless they get George back... |
     | [[https://www.imdb.com/title/tt3385516][X-Men: Apocalypse (2016)]]                             |      7 | Good if the ending wasn't so weak.                                                                                                                                                                      |
     | [[https://www.imdb.com/title/tt3385516][X-Men: Dark Phoenix (2019)]]                           |      6 | The ending of the previous movie makes no sense with the start of this one. On its own decent but creates plotholes way to big to forgive.                                                              |
-    | [[https://www.imdb.com/title/tt1950186][Ford v Ferrari (2019)]]                                |    8.5 | If you can make me really like a movie about cars, you did a great job.                                                                                                                                 |
-    |                                                      |        |                                                                                                                                                                                                         |
+    | [[https://www.imdb.com/title/tt8946378/?ref_=nv_sr_srsg_0][Knives Out (2019)]]                                    |      8 |                                                                                                                                                                                                         |
 
 *** Series
     | Cover | Name | Status | Opinion | Rating |
@@ -95,8 +96,12 @@
 
 ** April
 *** Movies
-    | Name | Rating | Opinion |
-    | --   | :--:   | ------- |
+    | Name                       | Rating | Opinion                                                                 |
+    | --                         |   :--: | -------                                                                 |
+    | [[https://www.imdb.com/title/tt1950186][Ford v Ferrari (2019)]]      |    8.5 | If you can make me really like a movie about cars, you did a great job. |
+    | [[https://www.imdb.com/title/tt0437086/?ref_=nv_sr_srsg_0][Alita: Battle Angel (2019)]] |    7.5 |                                                                         |
+    | [[https://www.imdb.com/title/tt2584384/?][Jojo Rabbit (2019)]]         |    8.5 |                                                                         |
+    | [[https://www.imdb.com/title/tt6394270/?ref_=nv_sr_srsg_0][Bombshell (2019)]]           |    7.5 |                                                                         |
 
 *** Series
     | Cover                                            | Name                                                                              | Status      | Opinion                                                                          | Rating |
@@ -114,21 +119,27 @@
 *** Movies
     | Name                 | Rating | Opinion |
     | --                   |   :--: | ------- |
-    | [[https://www.imdb.com/title/tt2584384/?][Jojo Rabbit (2019)]]   |    8.5 |         |
     | [[https://www.imdb.com/title/tt3315342][Logan (2017)]]         |      8 |         |
     | [[https://www.imdb.com/title/tt8367814][The Gentlemen (2019)]] |      8 |         |
     | [[https://www.imdb.com/title/tt7456310][Anna (2019)]]          |      7 |         |
 
 *** Series
     | Cover | Name         | Status      | Opinion | Rating |
-    | --    | --           | :--:        | ------- | :--:   |
-    |       | Black Mirror | s01e1-s01e2 |         | 8      |
+    | --    | --           | :--:        | ------- |   :--: |
+    |       | Black Mirror | s01e1-s01e2 |         |      7 |
+    |       | Afterlife    | s02         |         |      8 |
+    |       | Carnival Row | s01         |         |    7.5 |
 
 *** Games
-    | Name                | Status   | Rating | Description |
-    | --                  | :--:     | :--:   | -------     |
-    | XCOM: Chimera Squad | finished | 7.5    |             |
-    | Inquisitor Martyr   | playing  | 8      |             |
-    | Hollow Knight       | playing  | -      |             |
+    | Name                    | Status   | Rating | Description |
+    | --                      | :--:     |   :--: | -------     |
+    | XCOM: Chimera Squad     | finished |    7.5 |             |
+    | Inquisitor Martyr       | finished |      8 |             |
+    | Warhammer: Vermintide 2 | -        |    8.5 |             |
+    | Warhammer: Chaosbane    | finished |      8 |             |
 
-
+** June
+*** Movies
+    | Name                                    | Rating | Opinion                                     |
+    | --                                      | :--:   | -------                                     |
+    | [[https://www.imdb.com/title/tt1972591/?ref_=nv_sr_srsg_0][King Arthur: Legend of the Sword (2017)]] | 7      | watchable but story didn't make much sense. |
